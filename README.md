@@ -1,4 +1,4 @@
-TreeMail is designed to make emails easier to read and keep track of so that you don't get behind on the conversation. Future versions will include an Android APK to load on your phone which has an interface to help you.
+Synopsis allows you to view a brief overview of articles and other texts on your Android phone. Future versions will include an Android APK to load on your phone which has an interface to help you.
 
 Current versions simply sums up text inputs.
 
